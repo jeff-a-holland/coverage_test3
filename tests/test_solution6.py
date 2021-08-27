@@ -1,6 +1,6 @@
 #!/Users/jeff/.pyenv/shims/python
 
-from solution import mygetter
+from solution6 import mygetter
 
 def test_one_pos_index():
     s = 'abcde'
